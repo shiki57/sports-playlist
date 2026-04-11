@@ -1,0 +1,112 @@
+#EXTM3U x-tvg-url="https://i.postimg.cc/4NbbnjWq/hlsm3u8.jpg"
+
+#EXTINF:-1 tvg-id="BeinAr1" tvg-name="Bein Ar 1" tvg-logo="" group-title="BeIN Sports Arabic",Bein Ar 1
+http://ch-4k-top.org/play/live.php?mac=00:1A:79:B4:0C:A1&stream=510908&extension=m3u8
+
+#EXTINF:-1 tvg-id="BeinAr2" tvg-name="Bein Ar 2" tvg-logo="" group-title="BeIN Sports Arabic",Bein Ar 2
+http://ch-4k-top.org/play/live.php?mac=00:1A:79:B4:0C:A1&stream=510909&extension=m3u8
+
+#EXTINF:-1 tvg-id="BeinAr3" tvg-name="Bein Ar 3" tvg-logo="" group-title="BeIN Sports Arabic",Bein Ar 3
+http://ch-4k-top.org/play/live.php?mac=00:1A:79:B4:0C:A1&stream=510910&extension=m3u8
+
+#EXTINF:-1 tvg-id="BeinAr4" tvg-name="Bein Ar 4" tvg-logo="" group-title="BeIN Sports Arabic",Bein Ar 4
+http://ch-4k-top.org/play/live.php?mac=00:1A:79:B4:0C:A1&stream=510911&extension=m3u8
+
+#EXTINF:-1 tvg-id="BeinAr5" tvg-name="Bein Ar 5" tvg-logo="" group-title="BeIN Sports Arabic",Bein Ar 5
+http://ch-4k-top.org/play/live.php?mac=00:1A:79:B4:0C:A1&stream=510912&extension=m3u8
+
+#EXTINF:-1 tvg-id="BeinAr6" tvg-name="Bein Ar 6" tvg-logo="" group-title="BeIN Sports Arabic",Bein Ar 6
+http://ch-4k-top.org/play/live.php?mac=00:1A:79:B4:0C:A1&stream=510913&extension=m3u8
+
+#EXTINF:-1 tvg-id="BeinAr7" tvg-name="Bein Ar 7" tvg-logo="" group-title="BeIN Sports Arabic",Bein Ar 7
+http://ch-4k-top.org/play/live.php?mac=00:1A:79:B4:0C:A1&stream=510914&extension=m3u8
+
+#EXTINF:-1 tvg-id="BeinAr8" tvg-name="Bein Ar 8" tvg-logo="" group-title="BeIN Sports Arabic",Bein Ar 8
+http://ch-4k-top.org/play/live.php?mac=00:1A:79:B4:0C:A1&stream=510915&extension=m3u8
+
+#EXTINF:-1 tvg-id="BeinTr1" tvg-name="Bein tr 1" tvg-logo="" group-title="BeIN Sports Turkey",Bein tr 1
+http://ch-4k-top.org/play/live.php?mac=00:1A:79:B4:0C:A1&stream=10698&extension=m3u8
+
+#EXTINF:-1 tvg-id="BeinTr2" tvg-name="Bein tr 2" tvg-logo="" group-title="BeIN Sports Turkey",Bein tr 2
+http://ch-4k-top.org/play/live.php?mac=00:1A:79:B4:0C:A1&stream=10697&extension=m3u8
+
+#EXTINF:-1 tvg-id="BeinTr3" tvg-name="Bein tr 3" tvg-logo="" group-title="BeIN Sports Turkey",Bein tr 3
+http://ch-4k-top.org/play/live.php?mac=00:1A:79:B4:0C:A1&stream=10696&extension=m3u8
+
+#EXTINF:-1 tvg-id="Dazn1DE" tvg-name="Dazn1 DE" tvg-logo="" group-title="DAZN Germany",Dazn1 DE
+http://v3tv.live:80/play/live.php?mac=00:1A:79:05:8B:80&stream=403779&extension=m3u8
+
+#EXTINF:-1 tvg-id="Dazn2DE" tvg-name="Dazn2 DE" tvg-logo="" group-title="DAZN Germany",Dazn2 DE
+http://v3tv.live:80/play/live.php?mac=00:1A:79:05:8B:80&stream=403780&extension=m3u8
+
+#EXTINF:-1 tvg-id="Fubosports" tvg-name="Fubosports" tvg-logo="" group-title="Other Sports",Fubosports
+http://v3tv.live:80/play/live.php?mac=00:1A:79:05:8B:80&stream=403782&extension=m3u8
+
+#EXTINF:-1 tvg-id="iTV1" tvg-name="iTV 1" tvg-logo="" group-title="Other Sports",iTV 1
+http://v3tv.live:80/play/live.php?mac=00:1A:79:05:8B:80&stream=10499&extension=m3u8
+
+#EXTINF:-1 tvg-id="ManUTV" tvg-name="ManU TV" tvg-logo="" group-title="Other Sports",ManU TV
+http://v3tv.live:80/play/live.php?mac=00:1A:79:05:8B:80&stream=10501&extension=m3u8
+
+#EXTINF:-1 tvg-id="Sky1NZ" tvg-name="Sky 1 NZ" tvg-logo="" group-title="Sky New Zealand",Sky 1 NZ
+http://ch-4k-top.org/play/live.php?mac=00:1A:79:B4:0C:A1&stream=579826&extension=m3u8
+
+#EXTINF:-1 tvg-id="Sky2NZ" tvg-name="Sky 2 NZ" tvg-logo="" group-title="Sky New Zealand",Sky 2 NZ
+http://ch-4k-top.org/play/live.php?mac=00:1A:79:B4:0C:A1&stream=579825&extension=m3u8
+
+#EXTINF:-1 tvg-id="Sky3NZ" tvg-name="Sky 3 NZ" tvg-logo="" group-title="Sky New Zealand",Sky 3 NZ
+http://ch-4k-top.org/play/live.php?mac=00:1A:79:B4:0C:A1&stream=579824&extension=m3u8
+
+#EXTINF:-1 tvg-id="Sky4NZ" tvg-name="Sky 4 NZ" tvg-logo="" group-title="Sky New Zealand",Sky 4 NZ
+http://ch-4k-top.org/play/live.php?mac=00:1A:79:B4:0C:A1&stream=579823&extension=m3u8
+
+#EXTINF:-1 tvg-id="Sky5NZ" tvg-name="Sky 5 NZ" tvg-logo="" group-title="Sky New Zealand",Sky 5 NZ
+http://ch-4k-top.org/play/live.php?mac=00:1A:79:B4:0C:A1&stream=579822&extension=m3u8
+
+#EXTINF:-1 tvg-id="Sky6NZ" tvg-name="Sky 6 NZ" tvg-logo="" group-title="Sky New Zealand",Sky 6 NZ
+http://ch-4k-top.org/play/live.php?mac=00:1A:79:B4:0C:A1&stream=579821&extension=m3u8
+
+#EXTINF:-1 tvg-id="Sky7NZ" tvg-name="Sky 7 NZ" tvg-logo="" group-title="Sky New Zealand",Sky 7 NZ
+http://ch-4k-top.org/play/live.php?mac=00:1A:79:B4:0C:A1&stream=579820&extension=m3u8
+
+#EXTINF:-1 tvg-id="Sky8NZ" tvg-name="Sky 8 NZ" tvg-logo="" group-title="Sky New Zealand",Sky 8 NZ
+http://ch-4k-top.org/play/live.php?mac=00:1A:79:B4:0C:A1&stream=579819&extension=m3u8
+
+#EXTINF:-1 tvg-id="Sky9NZ" tvg-name="Sky 9 NZ" tvg-logo="" group-title="Sky New Zealand",Sky 9 NZ
+http://ch-4k-top.org/play/live.php?mac=00:1A:79:B4:0C:A1&stream=579818&extension=m3u8
+
+#EXTINF:-1 tvg-id="SkySelectNZ" tvg-name="Sky Select NZ" tvg-logo="" group-title="Sky New Zealand",Sky Select NZ
+http://ch-4k-top.org/play/live.php?mac=00:1A:79:B4:0C:A1&stream=579817&extension=m3u8
+
+#EXTINF:-1 tvg-id="SkyEPL" tvg-name="Sky EPL" tvg-logo="" group-title="Sky Sports UK",Sky EPL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LXR64TCVBF7RZS3WAXVK7YQ3/9334/index.m3u8
+
+#EXTINF:-1 tvg-id="SkyCricket" tvg-name="Sky Cricket" tvg-logo="" group-title="Sky Sports UK",Sky Cricket
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LXR64TCVBF7RZS3WAXVK7YQ3/9258/index.m3u8
+
+#EXTINF:-1 tvg-id="SkyF1" tvg-name="Sky F1" tvg-logo="" group-title="Sky Sports UK",Sky F1
+http://ch-4k-top.org/play/live.php?mac=00:1A:79:B4:0C:A1&stream=10525&extension=m3u8
+
+#EXTINF:-1 tvg-id="SkyFootball" tvg-name="Sky Football" tvg-logo="" group-title="Sky Sports UK",Sky Football
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LXR64TCVBF7RZS3WAXVK7YQ3/9289/index.m3u8
+
+#EXTINF:-1 tvg-id="SkyGolf" tvg-name="Sky Golf" tvg-logo="" group-title="Sky Sports UK",Sky Golf
+http://ch-4k-top.org/play/live.php?mac=00:1A:79:B4:0C:A1&stream=10515&extension=m3u8
+
+#EXTINF:-1 tvg-id="SkyMain" tvg-name="Sky Main" tvg-logo="" group-title="Sky Sports UK",Sky Main
+http://ch-4k-top.org/play/live.php?mac=00:1A:79:B4:0C:A1&stream=10514&extension=m3u8
+
+#EXTINF:-1 tvg-id="SkyMain2" tvg-name="Sky Main 2" tvg-logo="" group-title="Sky Sports UK",Sky Main 2
+https://yacinetv.net/kadaTV/skysportsmainevent.m3u8
+
+#EXTINF:-1 tvg-id="SkyMix" tvg-name="Sky Mix" tvg-logo="" group-title="Sky Sports UK",Sky Mix
+http://ch-4k-top.org/play/live.php?mac=00:1A:79:B4:0C:A1&stream=10513&extension=m3u8
+
+#EXTINF:-1 tvg-id="SkyNews" tvg-name="Sky News" tvg-logo="" group-title="Sky Sports UK",Sky News
+http://ch-4k-top.org/play/live.php?mac=00:1A:79:B4:0C:A1&stream=10512&extension=m3u8
+
+#EXTINF:-1 tvg-id="SkyEPL2" tvg-name="Sky EPL 2" tvg-logo="" group-title="Sky Sports UK",Sky EPL 2
+http://ch-4k-top.org/play/live.php?mac=00:1A:79:B4:0C:A1&stream=10517&extension=m3u8
+
+#EXTINF:-1 tvg-id="SkyPlus" tvg-name="Sky Plus" tvg-logo="" group-title="Sky Sports UK",Sky Plus
+http://ch-4k-top.org/play/live.php?mac=00:1A:79:B4:0C:A1&stream=10528&extension=m3u8
